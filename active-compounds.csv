@@ -1,0 +1,121 @@
+,smilles  ,molecularforma,ROMol
+0,FC(F)(F)C1=CC(NC2=C3C=CC=CC3=NC=N2)=CC=C1,C15H10F3N3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3e60>
+1,CC(=O)NC1=CC(NC2=NC(=NC3=CC=CC=C23)C2=CC=CC=C2)=CC=C1,C22H18N4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3bc0>
+2,CC(=O)NC1=CC(NC2=NC(=NC3=CC=CC=C23)C2=CC=CC=C2F)=CC=C1,C22H17FN4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3b50>
+3,CCN(C1=CC=CC=C1)C1=CC(NC)=[N+](C)C(C)=N1,C15H21N4+,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3ae0>
+4,CCCN(CC1CC1)C1=NC(C)=NC(NC2=C(Cl)C=C(Cl)C=C2Cl)=C1Cl,C18H20Cl4N4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3a70>
+5,FC(F)(F)C1=CC(NC2=NC(=NC(=N2)N2CCCC2)N2CCCC2)=CC=C1,C18H21F3N6,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3a00>
+6,CN(C)C1=CC=CC(=C1)C1=NC=CC(=N1)N1CCC(CC1)C(N)=O,C18H23N5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3990>
+7,BrC1=CC=CC(NC2=C3C=C(NC(=O)C=C)C=CC3=NC=N2)=C1,C17H13BrN4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3920>
+8,CCC(=O)NC1=CC(NC2=NC3=C(C=NN3C(NC3CC3)=C2)C#N)=CC=C1C,C20H21N7O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a38b0>
+9,CN1C2=CC=CC=C2C(=O)N(C)C2=CN=C(NC3=CC=C(C=C3)N3CCC(O)CC3)N=C12,C24H26N6O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3840>
+10,O=C(NC1=CC=C(NC2=CC=CC=C2)C=C1)C1CC1,C16H16N2O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a37d0>
+11,CC(=O)NC1=CC=C(NC2=NC=C(C(NC3=CC=C(NC(C)=O)C=C3)=N2)[N+]([O-])=O)C=C1,C20H19N7O4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3760>
+12,NCC1=CC=C(NC2=NC(NC3=CC=CC=C3)=C(F)C=N2)C=C1,C17H16FN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a36f0>
+13,CC1CCCCN1C1=NC=NC2=CC=CC=C12,C14H17N3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3680>
+14,CC#CC(=O)NC1=CC2=C(NC3=CC=CC(Br)=C3)N=CN=C2C=C1,C18H13BrN4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3610>
+15,OC(=O)C1=C(NC2=CC(=CC=C2)C(F)(F)F)N=CC=C1,C13H9F3N2O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a35a0>
+16,NC1=NC2=CC(NC(=O)CCCC(O)=O)=CC=C2N1,C12H14N4O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3530>
+17,NC1=NC2=CC(NC(=O)CCCC(O)=O)=CC=C2N1,C12H14N4O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a34c0>
+18,OCC1=CC2=NC=NC(NC3=CC=C(O)C=C3)=C2C=C1CO,C16H15N3O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3450>
+19,CN(C)C1=CC=C(NC2=NC=NC3=CC=C(Br)C=C23)C=C1,C16H15BrN4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a33e0>
+20,CC1=CC(NC(=O)CCC(O)=O)=CC=C1,C11H13NO3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3370>
+21,CN1CCC(c2ccc(-c3ccc4ncn(C(C(=O)Nc5nccs5)c5ccccc5)c(=O)c4c3F)cc2)CC1                    ,C31H28FN5O2S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3300>
+22,COc1cc(CNCCN(C)C)ccc1-c1cc2c(N[C@H](C)c3ccccc3)ncnc2[nH]1                        ,C26H32N6O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3290>
+23,CCc1cc(Nc2ncc(Br)c(Nc3ccn4ncnc4c3P(C)(C)=O)n2)c(OC)cc1N1CCC(N2CCN(CC)CC2)CC1            ,C32H44BrN10O2P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3220>
+24,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1                            ,C29H31N7O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a31b0>
+25,CCc1cc(Nc2ncc(Br)c(Nc3ccc4nccnc4c3P(C)(C)=O)n2)c(OC)cc1N1CCC(N2CC(N(C)C)C2)CC1           ,C33H43BrN9O2P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3140>
+26,CN(C)C/C=C/C(=O)Nc1ccc2ncnc(Nc3cc(Cl)c(Cl)cc3F)c2c1                                      ,C20H18Cl2FN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a30d0>
+27,COc1cc(N2CCC(N3CC[C@H](N(C)C)C3)CC2)c(C)cc1Nc1ncc(Br)c(Nc2ccc3c(c2P(C)(C)=O)OCCO3)n1     ,C33H45BrN7O4P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a3060>
+28,O=C(CCCCCCn1cc(-c2ccc3ncnc(Nc4cccc(Cl)c4F)c3c2)nn1)NO                                    ,C23H23ClFN7O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2ff0>
+29,O=C(CCl)Nc1ccc2ncnc(Nc3cccc(I)c3)c2c1                                                    ,C16H12ClIN4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2f80>
+30,Nc1cc2ncnc(Nc3cccc(Br)c3)c2cc1N                                                          ,C14H12BrN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2f10>
+31,Nc1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                           ,C13H10BrN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2ea0>
+32,CNc1cc2ncnc(Nc3cccc(Br)c3)c2cn1                                                          ,C14H12BrN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2e30>
+33,COc1cc(N2CCC(N3CCCOCC3)CC2)c(C)cc1Nc1ncc(Br)c(Nc2ccc3c(c2P(C)(C)=O)OCCO3)n1              ,C32H42BrN6O5P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2dc0>
+34,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCC1C2COCC21                            ,C26H27ClFN5O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2d50>
+35,CCc1cc(Nc2ncc(Br)c(Nc3ccc4c(c3P(C)(C)=O)OCCO4)n2)c(OC)cc1N1CCC(N2CC(COC)C2)CC1           ,C33H44BrN6O5P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2ce0>
+36,COc1ccc(-c2cc(=O)cc(-c3ccc(OC)cc3)o2)cc1                                                 ,C19H16O4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2c70>
+37,COc1cc(N2CCC(N3CCN(C)CC3)CC2)c(C)cc1Nc1ncc(Br)c(Nc2ccc3nccnc3c2P(C)(C)=O)n1              ,C32H41BrN9O2P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2c00>
+38,C=CC(=O)Nc1nc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1/C=C/CCN1CCOCC1                                 ,C24H24ClFN6O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2b90>
+39,N#CCC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1                                                  ,C17H12BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2b20>
+40,CCCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OCCC                                                    ,C20H22BrN3O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2ab0>
+41,C=CC(=O)Nc1cc(Nc2ncc(C(F)(F)F)c(-c3cn(C4COC4)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C            ,C31H34F3N7O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2a40>
+42,Oc1cc2ncnc(Nc3cccc(Br)c3)c2cc1O                                                          ,C14H10BrN3O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a29d0>
+43,CCc1cc(Nc2ncc(Br)c(Nc3ccn4ncnc4c3P(C)(C)=O)n2)c(OC)cc1N1CCC(N2CCOCC2)CC1                 ,C30H39BrN9O3P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2960>
+44,OCC(O)CNc1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                    ,C16H16BrN5O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a28f0>
+45,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCC                                             ,C19H16ClFN4O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2880>
+46,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C4CC4)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C                       ,C30H35N7O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2810>
+47,CNc1cc2c(Nc3cccc(Cl)c3)ncnc2cn1                                                          ,C14H12ClN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a27a0>
+48,OCCNc1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                        ,C15H14BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2730>
+49,C=CC(=O)Nc1cccc(-n2c(=O)c(-c3ccccc3)cc3cnc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1              ,C34H33N7O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a26c0>
+50,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(S(=O)(=O)N(C)C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C              ,C29H36N8O4S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2650>
+51,COc1cc(CO)ccc1-c1cc2c(N[C@H](CO)c3ccccc3)ncnc2[nH]1                                      ,C22H22N4O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a25e0>
+52,CCOc1ccccc1-c1cc2c(N[C@H](CO)c3ccccc3)ncnc2[nH]1                                         ,C22H22N4O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2570>
+53,OCc1ccc(-c2cc3c(N[C@H](CO)c4ccccc4)ncnc3[nH]2)cc1                                        ,C21H20N4O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2500>
+54,CC(C)c1cnc(N2C[C@H](CS(C)(=O)=O)[C@H]2C)c2cnc(Nc3ccnc(N4CC[C@@H](O)[C@@](C)(F)C4)n3)cc12 ,C27H36FN7O3S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2490>
+55,CCC(=O)Nc1cccc(-c2c(-c3ccc(N4CCN(C)CC4)cc3)[nH]c3ncnc(OCC(C)C)c23)c1                     ,C30H36N6O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2420>
+56,CC(C)c1ccc(N2CC(CS(C)(=O)=O)C2)c2cnc(Nc3ccnc(N4CC[C@@H](O)[C@@](C)(F)C4)n3)cc12          ,C27H35FN6O3S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a23b0>
+57,CN1CCC(c2ccc(-c3ccc4ncn(C(C(=O)Nc5nccs5)c5ccccc5)c(=O)c4c3)cc2)CC1                       ,C31H29N5O2S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2340>
+58,CN1CCC(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cccc(F)c3)C4)cc2)CC1                   ,C31H29FN4O2S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a22d0>
+59,COc1cc2ncnc(Nc3cc(Cl)c(Cl)cc3F)c2cc1OC                                                   ,C16H12Cl2FN3O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2260>
+60,Cn1cnc([N+](=O)[O-])c1C[N+](C)(C)C/C=C/C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1.[Br-]         ,C25H26Br2N8O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a21f0>
+61,Cn1c(C[N+](C)(C)C/C=C/C(=O)Nc2ccc3ncnc(Nc4cccc(Br)c4)c3c2)ccc1[N+](=O)[O-].[Br-]         ,C26H27Br2N7O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2180>
+62,Cn1ncc([N+](=O)[O-])c1C[N+](C)(C)C/C=C/C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1.[Br-]         ,C25H26Br2N8O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2110>
+63,CN(CCO)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                     ,C16H16BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a20a0>
+64,C[N+](C)(C/C=C/C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1)Cc1ccccc1[N+](=O)[O-].[Br-]           ,C27H26Br2N6O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a2030>
+65,C[N+](C)(C/C=C/C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1)Cc1ccc([N+](=O)[O-])cc1.[Br-]         ,C27H26Br2N6O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1fc0>
+66,Cn1cc([N+](=O)[O-])nc1C[N+](C)(C)C/C=C/C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1.[Br-]         ,C25H26Br2N8O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1f50>
+67,CN1CCN(CCC(=O)Nc2ccc3ncnc(Nc4cccc(Br)c4)c3c2)CC1                                         ,C22H25BrN6O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1ee0>
+68,C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCN/C(=N\C#N)Nc4ccncc4)cc23)c1                             ,C29H28N8O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1e70>
+69,OCCNc1cc2ncnc(Nc3cccc(Br)c3)c2cn1                                                        ,C15H14BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1e00>
+70,COc1cc2ncnc(Nc3cccc(C(F)(F)F)c3)c2cc1OC                                                  ,C17H14F3N3O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1d90>
+71,CCOC(=O)c1ccccc1Nc1nc(Nc2ccc(OCC(=O)N3CCOCC3)cc2)ncc1Cl                                  ,C25H26ClN5O5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1cb0>
+72,C=CC(=O)Nc1ccc2c(Nc3cccc(Cl)c3)ncnc2c1                                                   ,C17H13ClN4O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1c40>
+73,Nc1ccc2c(Nc3cccc(Cl)c3)ncnc2c1                                                           ,C14H11ClN4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1bd0>
+74,CCc1cc(Nc2ncc(Br)c(Nc3ccc4nccnc4c3P(C)(C)=O)n2)c(OC)cc1N1CCC(N2CCN(C)CC2)CC1             ,C33H43BrN9O2P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1b60>
+75,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C4CC4)c4ccccc34)n2)c(OC)cc1[S+]([O-])CCN(C)C                 ,C29H32N6O3S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1af0>
+76,C#Cc1cccc(Nc2ncnc3cc(OCCCCn4ccnc4[N+](=O)[O-])c(OC)cc23)c1                               ,C24H22N6O4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1a80>
+77,O=C(CCN1CCCCC1)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1                                            ,C22H24BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1a10>
+78,CCOc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)CCN(C)C                                         ,C21H23ClFN5O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a19a0>
+79,Nc1ccc2sc3c(Nc4cccc(Br)c4)ncnc3c2c1                                                      ,C16H11BrN4S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a17e0>
+80,O=C(CCCCCn1cc(-c2ccc3ncnc(Nc4cccc(Cl)c4F)c3c2)nn1)NO                                     ,C22H21ClFN7O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1930>
+81,CN(C)CCC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1                                               ,C19H20BrN5O,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a18c0>
+82,O=C(O)CNc1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                    ,C15H12BrN5O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1850>
+83,CCN(C)C1CN(C2CCN(c3cc(OC)c(Nc4ncc(Br)c(Nc5ccc6c(c5P(C)(C)=O)OCCO6)n4)cc3C)CC2)C1         ,C33H45BrN7O4P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a15b0>
+84,O=C(O)CCCNc1cc2ncnc(Nc3cccc(Br)c3)c2cn1                                                  ,C17H16BrN5O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1700>
+85,CCO[C@@H]1CCN(C2CCN(c3cc(OC)c(Nc4ncc(Br)c(Nc5ccc6c(c5P(C)(C)=O)OCCO6)n4)cc3C)CC2)C1      ,C33H44BrN6O5P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1770>
+86,Cc1nc2cc3c(Nc4cccc(Br)c4)ncnc3cc2[nH]1                                                   ,C16H12BrN5,<rdkit.Chem.rdchem.Mol object at 0x7f0be92a1690>
+87,C=CC(=O)Nc1cccc(N2C(=O)N(Cc3ccccc3)Cc3cnc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1               ,C34H36N8O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e0040>
+88,CCOc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)CCN1CCOCC1                                      ,C23H25ClFN5O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e00b0>
+89,C[C@@H](Nc1ncnc2[nH]c(-c3ccc(NS(C)(=O)=O)cc3)cc12)c1ccccc1                               ,C21H21N5O2S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e0200>
+90,COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OCCCOP(N)(=O)N(CCCl)CCCl                                  ,C22H27BrCl2N5O4P,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e0120>
+91,COc1cc(CNCCN(C)C)ccc1-c1cc2c(N[C@H](CO)c3ccccc3)ncnc2[nH]1                               ,C26H32N6O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e0350>
+92,C=CC(=O)N1C[C@@H]2C[C@H]1CN2C(=O)Oc1cc2c(Nc3ccc(Cl)c(Cl)c3F)ncnc2cc1OC                   ,C24H20Cl2FN5O4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e1fc0>
+93,C=CC(=O)Nc1cccc(N2C(=O)N(c3ccccc3)Cc3cnc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1                ,C33H34N8O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e2490>
+94,Cc1cc2cc(n1)-c1cnn(C)c1OCCC[C@@H](C)CN1/C(=N/C2=O)Nc2ccc(CN3CCN(C)CC3)cc21               ,C30H38N8O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e2420>
+95,COc1cc2c(Nc3ccc(Cl)c(Cl)c3F)ncnc2cc1OC[C@@H]1C[C@@H]2CN(C)C[C@@H]2C1                     ,C24H25Cl2FN4O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e1f50>
+96,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C(F)=C\CN1CCOCC1                                ,C23H22ClF2N5O3,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e2340>
+97,C=CC(=O)Nc1cccc(-n2c(=O)n(C(C)C)c(=O)c3cnc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1              ,C30H34N8O4,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e22d0>
+98,CC(C)c1ccc(N2C[C@H](CS(C)(=O)=O)[C@H]2C)c2cnc(Nc3ccnc(N4CC[C@@H](O)[C@@](C)(F)C4)n3)cc12 ,C28H37FN6O3S,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e2260>
+99,CC(C)c1cnc(N2C[C@H](O)[C@H]2C)c2cnc(Nc3ccnc(N4CC[C@@H](O)[C@@](C)(F)C4)n3)cc12           ,C25H32FN7O2,<rdkit.Chem.rdchem.Mol object at 0x7f0be92e23b0>
+0,C=C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N1CCN(C)CC1                                                                                                                                                                                                                                                                                                                                   ,C29H31N7O2
+1,COc1cc2ncnc3c2cc1OCCOCCOCCOc1ccc(Cl)cc1N3                                                                                                                                                                                                                                                                                                                                                          ,C21H22ClN3O5
+2,CN1CCN(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)cc2)CC1                                                                                                                                                                                                                                                                                                                            ,C30H28FN5O3S
+3,CC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1                                                                                                                                                                                                                                                                                                                                                         ,C17H11ClFN5O
+4,CCOc1ccccc1-c1cc2c(N[C@H](C)c3ccccc3)ncnc2[nH]1                                                                                                                                                                                                                                                                                                                                                    ,C22H22N4O
+5,CN(C)CCNCc1ccc(-c2cc3c(N[C@H](CO)c4ccccc4)ncnc3[nH]2)cc1                                                                                                                                                                                                                                                                                                                                           ,C25H30N6O
+6,COc1cc(NS(C)(=O)=O)ccc1-c1cc2c(N[C@H](CO)c3ccccc3)ncnc2[nH]1                                                                                                                                                                                                                                                                                                                                       ,C22H23N5O4S
+7,CC(C)c1cnc(N2CC[C@H]2C)c2cnc(Nc3ccnc(N4CC[C@@H](O)[C@@](C)(F)C4)n3)cc12                                                                                                                                                                                                                                                                                                                            ,C25H32FN7O
+8,COc1cc(N2CCC(N3CC(N(C)C)C3)CC2)c(C)cc1Nc1ncc(Br)c(Nc2ccc3c(c2P(C)(C)=O)OCCO3)n1                                                                                                                                                                                                                                                                                                                    ,C32H43BrN7O4P
+9,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCCn1ccnc1[N+](=O)[O-]                                                                                                                                                                                                                                                                                                                                         ,C22H20ClFN6O4
+10,COCC1CN(C2CCN(c3cc(OC)c(Nc4ncc(Br)c(Nc5ccc6c(c5P(C)(C)=O)OCCO6)n4)cc3C)CC2)C1                                                                                                                                                                                                                                                                                                                      ,C32H42BrN6O5P
+11,COc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCOCCn1ccnc1[N+](=O)[O-]                                                                                                                                                                                                                                                                                                                                        ,C22H20ClFN6O5
+12,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCCCCn1ccnc1[N+](=O)[O-]                                                                                                                                                                                                                                                                                                                                       ,C24H24ClFN6O4
+13,C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCCN/C(=N\C#N)Nc4cccnc4)cc23)c1                                                                                                                                                                                                                                                                                                                                      ,C30H30N8O2
+14,C#CC(=O)N1CCN(C(=O)Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)[C@H](C)C1                                                                                                                                                                                                                                                                                                                                ,C24H20Cl2FN5O4
+15,COc1cc2c(Nc3cccc(Br)c3)ncnc2cc1OCCCCCn1ccnc1[N+](=O)[O-]                                                                                                                                                                                                                                                                                                                                           ,C23H23BrN6O4
+16,Brc1cccc(Nc2ncnc3cc4c[nH]nc4cc23)c1                                                                                                                                                                                                                                                                                                                                                                ,C15H10BrN5
+17,C=CC(=O)N1CCN(C(=O)Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC)[C@H](C)C1                                                                                                                                                                                                                                                                                                                                    ,C24H23ClFN5O4
+18,C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCCN/C(=N\C#N)Nc4ccncc4)cc23)c1                                                                                                                                                                                                                                                                                                                                      ,C30H30N8O2
+19,OCCN(CCO)CCCNc1cc2c(Nc3cccc(Br)c3)ncnc2cn1                                                                                                                                                                                                                                                                                                                                                         ,C20H25BrN6O2
